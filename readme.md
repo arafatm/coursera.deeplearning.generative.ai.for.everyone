@@ -61,13 +61,36 @@ is making many AI applications much easier to build.
 
 ![](/img/1.27.jpg)
 
-### 1.1.1 Quiz
-
 ## 1.2 Generative AI Application
 
 ### 1.2.1 Writing
 
+![](/img/1.28.png)
+- Output quality increases with context and specificity provided
+
+![](/img/1.29.png)
+- e.g. in this translation it's not as good as native speaker
+- "front desk" translated literally vs "reception"
+- providing promt of "formal spoken hindi" improves the translation
+
 ### 1.2.1 Reading
+
+Can be used for e.g. 
+- proofreading
+- summarizing text
+- summarizing conversations
+- automating tasks
+- reputation monitoring
+
+![](/img/1.30.png)
+![](/img/1.31.png)
+![](/img/1.32.png)
+
+![](/img/1.33.png)
+![](/img/1.34.png)
+When building your own app, be very specific
+
+![](/img/1.35.png)
 
 ### 1.2.1 Chatting
 
