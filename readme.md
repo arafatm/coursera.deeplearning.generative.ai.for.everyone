@@ -85,12 +85,11 @@ Can be used for e.g.
 ![](/img/1.30.png)
 ![](/img/1.31.png)
 ![](/img/1.32.png)
+![](/img/1.35.png)
 
+When building your own app, be very specific
 ![](/img/1.33.png)
 ![](/img/1.34.png)
-When building your own app, be very specific
-
-![](/img/1.35.png)
 
 ### 1.2.1 Chatting
 
