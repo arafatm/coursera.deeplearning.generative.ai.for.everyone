@@ -93,7 +93,33 @@ When building your own app, be very specific
 
 ### 1.2.1 Chatting
 
+Can build specialized chatbots e.g. travel specific
+![](/img/1.36.png)
+
 ### 1.2.1 What LLMs can and cannot do
+
+Mental framework for LLM, can a fresh college grad perform the task...
+![](/img/1.37.png)
+![](/img/1.38.png)
+![](/img/1.39.png)
+
+Assume:
+- no access to internet nor external resources
+- no training specific on your company/business
+- no memory of previous task completed
+
+Other limitation:
+- knowledge cutoffs: 
+  - last time it 'scraped' the internet e.g. what is highest grossing film of <this year>
+  - learns erroneous information from "common" wrong information e.g. temperature of superconducter LK-99 
+- Hallucinations: will sometimes make up information in an authorative voice
+- input and output length is limited e.g. trying to summarize a very long paper
+- Does not work well with structured data 
+  - e.g. given table of home prices, estimate median price
+  - in this case can use supervised learning instead
+- Works best with unstructured data
+- Has bias and toxicity learned from the internet
+![](/img/1.40.png)
 
 ### 1.2.1 Tips for prompting
 
