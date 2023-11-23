@@ -1,4 +1,4 @@
-# [Coursera Deeplearinng.ai: Generative AI for Everyone](https://www.coursera.org/learn/generative-ai-for-everyone/home/week/1)
+# [Coursera DeepLearning.ai: Generative AI for Everyone](https://www.coursera.org/learn/generative-ai-for-everyone/home/week/1)
 
 ## 1.1 Introduction to Generative AI
 
