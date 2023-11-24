@@ -123,6 +123,15 @@ Other limitation:
 
 ### 1.2.1 Tips for prompting
 
+- Be detailed and specific
+- Guide the model to think through its answer
+- Experiment and iterate
+
+1.41.png
+1.42.png
+1.43.png
+1.44.png
+
 ### 1.2.1 Image generation (optional)
 
 ### 1.2.1 Quiz
