@@ -127,12 +127,18 @@ Other limitation:
 - Guide the model to think through its answer
 - Experiment and iterate
 
-1.41.png
-1.42.png
-1.43.png
-1.44.png
+![](/img/1.41.png)
+![](/img/1.42.png)
+![](/img/1.43.png)
+![](/img/1.44.png)
 
 ### 1.2.1 Image generation (optional)
+
+__Diffusion Models__ have learned from huge numbers of images. This is an example of supervised learning.
+
+![](/img/1.45.png)
+- Learn to generate slightly less noisy image from noisy image at every step
+- This takes lots of steps
 
 ### 1.2.1 Quiz
 
