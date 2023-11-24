@@ -1,5 +1,7 @@
 # [Coursera DeepLearning.ai: Generative AI for Everyone](https://www.coursera.org/learn/generative-ai-for-everyone/home/week/1)
 
+[Generative AI for Everyone: Lecture Notes](https://community.deeplearning.ai/t/generative-ai-for-everyone-lecture-notes/481740)
+
 ## 1.1 Introduction to Generative AI
 
 ### 1.1.1 What is Generative AI
@@ -140,8 +142,6 @@ __Diffusion Models__ have learned from huge numbers of images. This is an exampl
 - Learn to generate slightly less noisy image from noisy image at every step
 - This takes lots of steps
 
-### 1.2.1 Quiz
-
 ## 1.3 Week 1 resources
 
 ### Web UI chatbots to try
@@ -159,5 +159,16 @@ You can learn about the impact of generative AI on the economy by reading these 
 - [GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language ModelsOpens in a new tab](https://arxiv.org/pdf/2303.10130.pdf), Tyna Eloundou, Sam Manning, Pamela Miskin, and Daniel Rock, March 2023 (arXiv:2303.10130)
 - Goldman Sachs: [The Potentially Large Effects of Artificial Intelligence on Economic GrowthOpens in a new tab](https://www.gspublishing.com/content/research/en/reports/2023/03/27/d64e052b-0f6e-45d7-967b-d7be35fabd16.html), Joseph Briggs and Devesh Kodnani, March 2023
 
-### [Week 1 lecture notes](https://community.deeplearning.ai/t/generative-ai-for-everyone-lecture-notes/481740)
-
+## 2.1 Software Applications
+### Using generative AI in software applications
+### Trying generative AI code yourself (optional)
+### Trying generative AI code yourself (optional)
+### Lifecycle of a generative AI project
+### Cost intuition
+## 2.2 Advanced Technologies: Beyond Prompting
+### Retrieval Augmented Generation (RAG)
+### Fine-tuning
+### Pretraining an LLM
+### Choosing a model
+### How LLMs follow instructions: Instruction tuning and RLHF (optional)
+### Tool use and agents (optional)
