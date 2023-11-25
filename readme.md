@@ -160,8 +160,12 @@ You can learn about the impact of generative AI on the economy by reading these 
 - Goldman Sachs: [The Potentially Large Effects of Artificial Intelligence on Economic GrowthOpens in a new tab](https://www.gspublishing.com/content/research/en/reports/2023/03/27/d64e052b-0f6e-45d7-967b-d7be35fabd16.html), Joseph Briggs and Devesh Kodnani, March 2023
 
 ## 2.1 Software Applications
+
 ### Using generative AI in software applications
-### Trying generative AI code yourself (optional)
+
+Generative AI makes deploying apps like sentiment analysis much simpler
+![](/img/2.01.png) 
+
 ### Trying generative AI code yourself (optional)
 ### Lifecycle of a generative AI project
 ### Cost intuition
