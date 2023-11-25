@@ -167,6 +167,35 @@ Generative AI makes deploying apps like sentiment analysis much simpler
 ![](/img/2.01.png) 
 
 ### Trying generative AI code yourself (optional)
+
+[DLAI - Learning Platform Beta](https://learn.deeplearning.ai/genai4e/lesson/1/activity1)
+
+```python
+import openai
+import os
+
+openai.api_key = os.getenv("OPENAI_API_KEY")
+
+def llm_response(prompt):
+    response = openai.ChatCompletion.create(
+        model='gpt-3.5-turbo',
+        messages=[{'role':'user','content':prompt}],
+        temperature=0
+    )
+    return response.choices[0].message['content']
+
+prompt = '''
+    Classify the following review 
+    as having either a positive or
+    negative sentiment:
+
+    The banana pudding was really tasty!
+'''
+
+response = llm_response(prompt)
+print(response)
+```
+
 ### Lifecycle of a generative AI project
 ### Cost intuition
 ## 2.2 Advanced Technologies: Beyond Prompting
