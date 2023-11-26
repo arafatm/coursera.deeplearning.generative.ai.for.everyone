@@ -228,7 +228,73 @@ Examples of RAG Applications
 ![](/img/2.12.png) 
 
 ### Fine-tuning
+
+Fine tuning is another technique
+- more complicated that RAG
+- used to get output to fit a certain style
+
+e.g. Want output to be "optimistic"
+![](/img/2.34.png) 
+- Give it additional words (10-100k or more) to learn from
+
+Also used for apps where task isn't easy
+
+e.g. summarizing customer service calls
+![](/img/2.36.png) 
+
+e.g. mimicking a writing/speaking style
+![](/img/2.37.png) 
+
+Also used to learn specific domain knowledge e.g.
+- medical notes for patient with shortness of breat `Pt c/o SOB, DOE. PE: RRR,
+  JVD absent, CTAB. EKG: NSR. Tx: F/u w/ PCP, STAT CXR, cont. PRN O2.`
+- legal doc: `Licensor grants to Licensee, per Section 2(a)(iii), a
+  non-exclusive right to use the intellectual property, contingent upon
+  compliance with fiduciary duties outlined in Section 8, paragraphs 1-4, and
+  payment as specified in Schedule B, within 15 days hereof.`
+
+Some models don't require an expensive 100B+ parameter model
+![](/img/2.41.png) 
+- With fine tuning you can have a small model with 500-1k parameters work
+
 ### Pretraining an LLM
+
+Pretraining is effective but very expensive
+![](/img/2.43.png) 
+
 ### Choosing a model
+
+Some guidelines for choosing a model size
+![](/img/2.45.png) 
+
+![](/img/2.46.png) 
+
 ### How LLMs follow instructions: Instruction tuning and RLHF (optional)
+
+Given standard trianing from internet, output might not be what you expect
+![](/img/2.48.png) 
+- want output to be 'paris'
+
+Pre-tuning is to train with "good answers" when training
+![](/img/2.49.png) 
+
+RLHF: Reinforcement Learning from Human Feedback, is technique to "score"
+answers to train LLM
+![](/img/2.51.png) 
+- Score is a reward to LLM when it learns good answers
+
 ### Tool use and agents (optional)
+
+Given order taking app 
+![](/img/2.52.png) 
+- Add a user confirmation step to avoid mistakes
+- Do not use LLMs in mission/life critical apps
+
+LLMs aren't great at precise math
+![](/img/2.55.png) 
+
+can use external commands e.g. `CALCULATOR` to improve functions
+![](/img/2.56.png) 
+
+"Reasoning" Agents also extend capabilities
+![](/img/2.57.png) 
