@@ -197,9 +197,36 @@ print(response)
 ```
 
 ### Lifecycle of a generative AI project
+
+![](/img/2.02.png)
+- Here the sentiment was classified as positive even though it shouldn't have
+- Have to continuously improve the system
+
+![](/img/2.03.png) 
+- list of techniques to improve the system
+
 ### Cost intuition
+
+![](/img/2.04.png) 
+![](/img/2.05.png) 
+- Given typical adult reads at 250 words/min, cost is approx 8cents per hour
+
 ## 2.2 Advanced Technologies: Beyond Prompting
+
 ### Retrieval Augmented Generation (RAG)
+
+RAG enables LLM to have context
+![](/img/2.06.png) 
+![](/img/2.07.png) 
+![](/img/2.08.png) 
+
+Examples of RAG Applications
+![](/img/2.09.png) 
+![](/img/2.10.png) 
+![](/img/2.11.png) 
+
+![](/img/2.12.png) 
+
 ### Fine-tuning
 ### Pretraining an LLM
 ### Choosing a model
