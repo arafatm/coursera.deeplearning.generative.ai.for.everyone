@@ -2,9 +2,9 @@
 
 [Generative AI for Everyone: Lecture Notes](https://community.deeplearning.ai/t/generative-ai-for-everyone-lecture-notes/481740)
 
-## 1.1 Introduction to Generative AI
+## Introduction to Generative AI
 
-### 1.1.1 What is Generative AI
+### What is Generative AI
 
 ![](/img/1.04.jpg) 
 
@@ -17,7 +17,7 @@ is making many AI applications much easier to build.
 
 ![](/img/1.11.jpg)
 
-### 1.1.2 How Generative AI works
+### How Generative AI works
 
 ![](/img/1.13.jpg)
 - supervised learning, which turns out to be really good at labeling things.
@@ -45,7 +45,7 @@ is making many AI applications much easier to build.
 - But at the heart of LLMs is this technology that's learned from a lot of data
   to predict what is the next word.
 
-### 1.1.3 LLMs as a thought partner
+### LLMs as a thought partner
 
 ![](/img/1.20.jpg)
 
@@ -57,7 +57,7 @@ is making many AI applications much easier to build.
   double check anything it says about healthcare or medicine before following
   the suggestions.
 
-### 1.1.4 AI is a general purpose technology
+### AI is a general purpose technology
 
 ![](/img/1.26.jpg)
 
@@ -65,7 +65,7 @@ is making many AI applications much easier to build.
 
 ## 1.2 Generative AI Application
 
-### 1.2.1 Writing
+### Writing
 
 ![](/img/1.28.png)
 - Output quality increases with context and specificity provided
@@ -75,7 +75,7 @@ is making many AI applications much easier to build.
 - "front desk" translated literally vs "reception"
 - providing promt of "formal spoken hindi" improves the translation
 
-### 1.2.1 Reading
+### Reading
 
 Can be used for e.g. 
 - proofreading
@@ -93,12 +93,12 @@ When building your own app, be very specific
 ![](/img/1.33.png)
 ![](/img/1.34.png)
 
-### 1.2.1 Chatting
+### Chatting
 
 Can build specialized chatbots e.g. travel specific
 ![](/img/1.36.png)
 
-### 1.2.1 What LLMs can and cannot do
+### What LLMs can and cannot do
 
 Mental framework for LLM, can a fresh college grad perform the task...
 ![](/img/1.37.png)
@@ -123,7 +123,7 @@ Other limitation:
 - Has bias and toxicity learned from the internet
 ![](/img/1.40.png)
 
-### 1.2.1 Tips for prompting
+### Tips for prompting
 
 - Be detailed and specific
 - Guide the model to think through its answer
@@ -134,7 +134,7 @@ Other limitation:
 ![](/img/1.43.png)
 ![](/img/1.44.png)
 
-### 1.2.1 Image generation (optional)
+### Image generation (optional)
 
 __Diffusion Models__ have learned from huge numbers of images. This is an example of supervised learning.
 
@@ -298,3 +298,37 @@ can use external commands e.g. `CALCULATOR` to improve functions
 
 "Reasoning" Agents also extend capabilities
 ![](/img/2.57.png) 
+
+## 3.1 Generative AI and Business
+
+### Day-to-day usage of web UI LLMs
+
+![](/img/3.03.png) 
+![](/img/3.04.png) 
+![](/img/3.05.png) 
+![](/img/3.06.png) 
+- can be ok at writing simple code
+
+### Task analysis of jobs
+
+Framework by Erik Brynjolfsson, Tim Mitchell, and Daniel Rock for analyzing the
+work tasks for possible automation using AI
+![](/img/3.08.png) 
+
+![](/img/3.09.png) 
+- Businesses start with augmentation and iterate into automation
+
+![](/img/3.11.png) 
+- experiment with LLM to see if it has potential to automate a task
+
+![](/img/3.12.png) 
+
+### Additional job analysis examples
+### New workflows and new opportunities
+### Teams to build generative AI software
+### Automation potential across sectors
+## 3.2 Generative AI and Society
+### Concerns about AI
+### Artificial General Intelligence
+### Responsible AI
+### Building a more intelligent world
