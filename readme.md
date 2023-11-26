@@ -322,13 +322,61 @@ work tasks for possible automation using AI
 - experiment with LLM to see if it has potential to automate a task
 
 ![](/img/3.12.png) 
+- [ONET](https://www.onetonline.org/) is a resource to get ideas, but may not be accurate for your business
 
 ### Additional job analysis examples
+
+![](/img/3.14.png) 
+![](/img/3.15.png) 
+![](/img/3.16.png) 
+
 ### New workflows and new opportunities
+
+GenAI can help reduce toil in many professions
+
+![](/img/3.18.png) 
+![](/img/3.19.png) 
+![](/img/3.20.png) 
+![](/img/3.21.png) 
+
 ### Teams to build generative AI software
+
+![](/img/3.23.png) 
+![](/img/3.24.png) 
+![](/img/3.25.png) 
+
 ### Automation potential across sectors
+
+![](/img/3.27.png) 
+![](/img/3.28.png) 
+![](/img/3.29.png) 
+
 ## 3.2 Generative AI and Society
+
 ### Concerns about AI
-### Artificial General Intelligence
+
+### 1: Human Bias
+![](/img/3.31.png) 
+![](/img/3.32.png) 
+
+#### 2: Job Loss
+![](/img/3.33.png) 
+![](/img/3.34.png) 
+![](/img/3.35.png) 
+![](/img/3.36.png) 
+
+#### 3: Armageddon
+![](/img/3.37.png) 
+![](/img/3.38.png) 
+![](/img/3.39.png) 
+![](/img/3.40.png) 
+
+### AGI: Artificial General Intelligence
+
+AGI is probably further away
+![](/img/3.42.png) 
+
 ### Responsible AI
-### Building a more intelligent world
+
+![](/img/3.44.png) 
+![](/img/3.45.png) 
